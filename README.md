@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This Master's project extends the GRADIS (Gene Regulatory Network Inference using Distance-based Supervised learning) framework by incorporating transcription factor binding motif information from promoter regions. The approach enhances gene regulatory network (GRN) inference in *Escherichia coli* by integrating expression data with binding site evidence from multiple biological databases.
+This Master's project extends the GRADIS (Gene Regulatory Network Inference using GRAph DIStance-based Supervised learning) framework by incorporating transcription factor binding motif information from promoter regions. The approach enhances gene regulatory network (GRN) inference in *Escherichia coli* by integrating expression data with binding site evidence from multiple biological databases.
 
 ## Project Structure
 
